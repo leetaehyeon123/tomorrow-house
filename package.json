@@ -1,0 +1,25 @@
+{
+  "name": "tomorrow-house",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sass":"node-sass",
+    "sass":"node-sass -w -r styles/main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leetaehyeon123/tomorrow-house.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leetaehyeon123/tomorrow-house/issues"
+  },
+  "homepage": "https://github.com/leetaehyeon123/tomorrow-house#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
